@@ -3,7 +3,7 @@ Combines multiple style objects.
 
 ## Setup
 ```sh
-yarn add combineStyles
+yarn add combinestyles
 ```
 
 ## Example
